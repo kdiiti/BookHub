@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">BookHub</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="favourites">Favourites</string>
+    <string name="profile">Profile</string>
+    <string name="aboutapp">About App</string>
+    <string name="open_drawer">Open Drawer</string>
+    <string name="close_drawer">Close Drawer</string>
+
+    <string name="navigation_drawer">Navigation Drawer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dashboard_fragment">Dashboard Fragment</string>
+    <string name="profilefragment">Profile Fragment</string>
+    <string name="aboutFragment">About Fragment</string>
+    <string name="favouritesFragment">Favourites Fragment</string>
+    <string name="add_to_favourites">Add To Favourites</string>
+    <string name="name_of_the_book">Name of the Book</string>
+    <string name="book_author">Book Author</string>
+    <string name="book_price">Book Price</string>
+    <string name="action_sort">Action Sort</string>
+</resources>
